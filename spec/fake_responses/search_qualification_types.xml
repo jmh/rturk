@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<SearchQualificationTypesResponse>
+  <OperationRequest><RequestId>ac5ce55a-e8b4-495c-b7dc-03549a22ae12</RequestId></OperationRequest>
+  <SearchQualificationTypesResult>
+    <Request><IsValid>True</IsValid></Request>
+    <NumResults>10</NumResults>
+    <TotalNumResults>90</TotalNumResults>
+
+    <QualificationType>
+      <QualificationTypeId>2X2ZGJY9HWHZW0573YW0</QualificationTypeId>
+      <CreationTime>2008-01-17T21:15:28Z</CreationTime>
+      <Name>xQualified to Identify Adult Porn Websites</Name>
+      <Description>This qualifies you to work on filtering inappropriate images and otherwise objectionable content.</Description>
+      <Keywords>image,filter,content,porn,pornography,violence,hate,racism</Keywords>
+      <QualificationTypeStatus>Active</QualificationTypeStatus>
+      <RetryDelayInSeconds>11</RetryDelayInSeconds>
+    </QualificationType>
+
+    <QualificationType>
+      <QualificationTypeId>DJ7Z5T86KW8ZTY8QQZZZ</QualificationTypeId>
+      <CreationTime>2008-04-09T21:07:33Z</CreationTime>
+      <Name>adult</Name>
+      <Description>You must be 18 years or older for this qualification.</Description>
+      <Keywords>adult</Keywords>
+      <QualificationTypeStatus>Active</QualificationTypeStatus>
+    </QualificationType>
+
+    <QualificationType>
+      <QualificationTypeId>FZZZTTZYGW3ZPPYC9B7Z</QualificationTypeId>
+      <CreationTime>2007-12-10T20:12:21Z</CreationTime>
+      <Name>abc Qualified to Identify Adult Porn Websites</Name>
+      <Description>This qualifies you to work on filtering inappropriate images and otherwise objectionable content.</Description>
+      <Keywords>image,filter,content,porn,pornography,violence,hate,racism</Keywords>
+      <QualificationTypeStatus>Active</QualificationTypeStatus>
+      <RetryDelayInSeconds>11</RetryDelayInSeconds>
+    </QualificationType>
+
+    <QualificationType>
+      <QualificationTypeId>FXXAHX583XWZS5Z39X4Z</QualificationTypeId>
+      <CreationTime>2007-12-06T22:49:04Z</CreationTime>
+      <Name>Qxualified to Identify Adult Porn Websites</Name>
+      <Description>This qualifies you to work on filtering inappropriate images and otherwise objectionable content.</Description>
+      <Keywords>image,filter,content,porn,pornography,violence,hate,racism</Keywords>
+      <QualificationTypeStatus>Active</QualificationTypeStatus>
+      <RetryDelayInSeconds>259200</RetryDelayInSeconds>
+    </QualificationType>
+
+    <QualificationType>
+      <QualificationTypeId>2JFOFXRDS4ICT6S7W8AFP11A2J5UXM</QualificationTypeId>
+      <CreationTime>2011-08-21T21:47:55Z</CreationTime>
+      <Name>Qualified to work on Adult Photo Content Moderation</Name>
+      <Description>Qualified to work on Adult Photo Content Moderation</Description>
+      <QualificationTypeStatus>Active</QualificationTypeStatus>
+    </QualificationType>
+
+    <QualificationType>
+      <QualificationTypeId>WAAZV51MSYNZPZZFQR2Z</QualificationTypeId>
+      <CreationTime>2008-04-09T21:49:49Z</CreationTime>
+      <Name>Qualified to categorize adult toys 2</Name>
+      <Description>You must be 18 years or older for this qualification.</Description>
+      <Keywords>adult</Keywords>
+      <QualificationTypeStatus>Active</QualificationTypeStatus>
+    </QualificationType>
+
+    <QualificationType>
+      <QualificationTypeId>YGYZZ0YBMJX8R3HHZ1N0</QualificationTypeId>
+      <CreationTime>2008-04-09T21:40:24Z</CreationTime>
+      <Name>Qualified to categorize adult toys</Name>
+      <Description>You must be 18 years or older for this qualification.</Description>
+      <Keywords>adult</Keywords>
+      <QualificationTypeStatus>Active</QualificationTypeStatus>
+    </QualificationType>
+
+    <QualificationType>
+      <QualificationTypeId>KXDZV6YQNXEZ0ZZZHX10</QualificationTypeId>
+      <CreationTime>2009-07-13T08:30:19Z</CreationTime>
+      <Name>Qualified to Identify and Enjoy and Even More Better Superior Adult XXX Porn Mega Rocking Websites Containing Superior XXX Pictures</Name>
+      <Description>This qualifies you to work on filtering inappropriate images and otherwise objectionable content.</Description>
+      <Keywords>image,filter,content,porn,pornography,violence,hate,racism</Keywords>
+      <QualificationTypeStatus>Active</QualificationTypeStatus>
+      <RetryDelayInSeconds>11</RetryDelayInSeconds>
+    </QualificationType>
+
+    <QualificationType>
+      <QualificationTypeId>DRA2SGN8ZW5Z39CKN2BZ</QualificationTypeId>
+      <CreationTime>2009-07-13T08:39:04Z</CreationTime>
+      <Name>Qualified to Identify and Enjoy and Even More Better Superior Adult XXX Porn Mega Rocking Websites Containing Superior XXX Micki Pictures</Name>
+      <Description>This qualifies you to work on filtering inappropriate images and otherwise objectionable content.</Description>
+      <Keywords>image,filter,content,porn,pornography,violence,hate,racism</Keywords>
+      <QualificationTypeStatus>Active</QualificationTypeStatus>
+      <RetryDelayInSeconds>11</RetryDelayInSeconds>
+    </QualificationType>
+
+    <QualificationType>
+      <QualificationTypeId>989ZYMZAVTH6R8XVQYQZ</QualificationTypeId>
+      <CreationTime>2009-07-13T09:25:01Z</CreationTime>
+      <Name>Qualified to Identify and Enjoy and Even More Better Superior Adult XXX Porn Mega Rocking Websites Containing Superior XXX Micki MIT Pictures Darl</Name>
+      <Description>This qualifies you to work on filtering inappropriate images and otherwise objectionable content.</Description>
+      <Keywords>image,filter,content,porn,pornography,violence,hate,racism</Keywords>
+      <QualificationTypeStatus>Active</QualificationTypeStatus>
+      <RetryDelayInSeconds>11</RetryDelayInSeconds>
+    </QualificationType>
+
+  </SearchQualificationTypesResult>
+</SearchQualificationTypesResponse>
