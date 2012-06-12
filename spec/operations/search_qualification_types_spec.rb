@@ -21,6 +21,6 @@ describe RTurk::SearchQualificationTypes do
     response = RTurk::SearchQualificationTypes(:requestable => false)
     response.num_results.should == 10
     response.total_results.should == 90
-    # check for a system qualification type record?
+    response.qualification_types.size.should == 10
   end
 end
